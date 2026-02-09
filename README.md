@@ -94,10 +94,15 @@ Problem Solving • Team Collaboration • Communication • Time Management •
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RaviShankar000&theme=darkhub&no-frame=true&row=2&column=3" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaviShankar000&theme=github_dark" alt="GitHub Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RaviShankar000&theme=github_dark" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RaviShankar000&theme=github_dark" alt="Top Languages by Repo" />
 </p>
 
 ---
