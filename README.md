@@ -23,7 +23,7 @@
 - 💻 Strong foundation in **Java, Data Structures & Algorithms**
 - 🌐 Exploring **MERN Stack & Backend Development**
 - 🏆 Goal: Become a skilled Software Engineer
-- 📫 Reach me at: **ravishankar@example.com**
+- 📫 Reach me at: **ravishankar82923@gmail.com**
 
 ---
 
@@ -77,10 +77,10 @@
 ## 🌐 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/ravi-shankar-7670962ab/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:ravishankar@example.com">
+  <a href="mailto:ravishankar82923@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
