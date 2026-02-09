@@ -102,6 +102,34 @@ Problem Solving • Team Collaboration • Communication • Time Management •
 
 ---
 
+## 📈 Contribution Activity Overview
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaviShankar000&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+### 🎯 Development Activity Breakdown
+
+I maintain an active presence on GitHub through consistent contributions across multiple dimensions:
+
+- **💻 Commits**: Regular code contributions to personal and collaborative projects, focusing on clean, maintainable code
+- **🔀 Pull Requests**: Active participation in code reviews and feature implementations across repositories
+- **🐛 Issues**: Identifying bugs, proposing enhancements, and contributing to project discussions
+- **👀 Code Reviews**: Providing constructive feedback and ensuring code quality in collaborative environments
+
+### 🌟 Open Source Contributions
+
+As an aspiring open source contributor, I actively engage with the developer community through:
+
+- **Repository Contributions**: Contributing to open source projects aligned with my tech stack (MERN, Python, AI/ML)
+- **Issue Resolution**: Helping maintainers by fixing bugs and implementing requested features
+- **Documentation**: Improving project documentation to help other developers
+- **Community Engagement**: Participating in discussions, sharing knowledge, and learning from experienced developers
+
+> 💡 **Current Focus**: Building production-ready applications while expanding my open source footprint in web development and AI/ML domains.
+
+---
+
 ## 🌐 Connect With Me
 
 <p>
