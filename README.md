@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Ravi Shankar</h1>
-<h3 align="center">B.Tech CSE Student | Aspiring Software Engineer</h3>
+<h1 align="center">Hi 👋, I'm K Ravi Shankar Patro</h1>
+<h3 align="center">B.Tech CSE @ KL University | Full Stack Developer | GPA: 9.33</h3>
 
 <p align="center">
-🚀 Passionate about coding, problem-solving, and building real-world projects<br>
-🌱 Currently learning Full Stack Development & DSA<br>
-💡 Interested in Backend, Web Technologies, and System Design
+🚀 Building scalable web applications with modern JavaScript frameworks<br>
+🌱 Hands-on experience in MERN Stack, AI/ML integration & Cloud Databases<br>
+💡 Passionate about Problem Solving, System Design & Real-Time Applications
 </p>
 
 <p align="center">
@@ -12,37 +12,65 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Developer;Full+Stack+Learner;DSA+Enthusiast;Open+Source+Beginner&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Enthusiast;AI/ML+Integration;Problem+Solver;Open+Source+Contributor&center=true&width=500&height=45">
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech Computer Science Engineering student
-- 💻 Strong foundation in **Java, Data Structures & Algorithms**
-- 🌐 Exploring **MERN Stack & Backend Development**
-- 🏆 Goal: Become a skilled Software Engineer
-- 📫 Reach me at: **ravishankar82923@gmail.com**
+- 🎓 **B.Tech in Computer Science Engineering** at **Koneru Lakshmaiah University, Vijayawada** (2023-2027)
+- 📊 **CGPA: 9.33** | Strong academic performance with focus on practical application
+- 💻 Proficient in **Java, C++, Python, JavaScript** with hands-on full-stack development experience
+- 🌐 Built production-ready applications using **React, Node.js, Express.js, MongoDB, PostgreSQL**
+- 🤖 Experience in **AI/ML integration** with Python and Scikit-learn
+- 🚀 Developed real-time systems with **live tracking, role-based dashboards, and scalable REST APIs**
+- 📫 Reach me at: **2300031387cseird@gmail.com** | **ravishankar82923@gmail.com**
+- 📱 Mobile: **+91-7848977234**
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,javascript" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,c" />
 </p>
 
 ### 🌐 Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,vite" />
 </p>
 
 ### 🗄️ Databases & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,git,github,docker,vscode" />
 </p>
+
+### 🧠 Soft Skills
+Problem Solving • Team Collaboration • Communication • Time Management • Adaptability • Leadership
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 [Q-Commerce – Real-Time Grocery Delivery Platform](https://github.com/RaviShankar000/q-commerce)
+**Tech Stack:** React (Vite), Node.js, Express.js, MongoDB
+
+- Developed a **quick-commerce grocery delivery system** with multi-role support (Users, Riders, Pickers, Managers, Admin)
+- Implemented **real-time live order tracking** with GPS integration
+- Built **role-based dashboards** with secure authentication and authorization
+- Designed **scalable REST APIs** and modern, responsive UI/UX
+- Features: Cart checkout, order management, real-time updates, admin analytics
+
+### 🧠 AI-Based Academic Stress Analysis System
+**Tech Stack:** React, Node.js, MongoDB, Python, Scikit-learn
+
+- Developed an **AI-powered stress prediction system** analyzing anonymous survey data
+- Implemented **machine learning models** using Python and Scikit-learn for stress level classification
+- Built **full-stack web application** with React frontend and Node.js backend
+- Integrated **MongoDB** for data storage and real-time analytics
+- Predicts **stress levels and stress percentage** with high accuracy
 
 ---
 
@@ -80,8 +108,14 @@
   <a href="https://www.linkedin.com/in/ravi-shankar-7670962ab/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:ravishankar82923@gmail.com">
+  <a href="https://github.com/RaviShankar000" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="mailto:2300031387cseird@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/ravipatro" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 </p>
 
