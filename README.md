@@ -7,9 +7,9 @@
 💡 Passionate about Problem Solving, System Design & Real-Time Applications
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RaviShankar000&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Enthusiast;AI/ML+Integration;Problem+Solver;Open+Source+Contributor&center=true&width=500&height=45">
